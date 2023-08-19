@@ -1,5 +1,5 @@
 # Olá eu sou o Miguel! 🫡
-#### Cursando Ciências Da Computação <img align="center" alt="UNIP" src="https://www.unip.br/assets/img/logo/logo-unip.svg" width="60" height="60">
+#### Cursando Ciências Da Computação na <img align="center" alt="UNIP" src="https://www.unip.br/assets/img/logo/logo-unip.svg" width="90" height="60">
 
 
 ### Atualmente estou aprendendo:
