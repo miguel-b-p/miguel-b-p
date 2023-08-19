@@ -10,8 +10,13 @@
 <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div><br/>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-b-p" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-b-p&layout=compact&langs_count=8&card_width=320" />
+</a>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-b-p&layout=compact)
 
 ### Meus Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-batista-pinotti-839657266/)
