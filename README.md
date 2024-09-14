@@ -33,7 +33,7 @@
 
 ---
 
-[![language](https://skillicons.dev/icons?i=html,css,js,nodejs,python,php,mysql)](https://skillicons.dev)
+[![language](https://skillicons.dev/icons?i=html,css,js,nodejs,python,php,mysql,selenium)](https://skillicons.dev)
 
 ---
 
