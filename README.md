@@ -10,9 +10,9 @@
 </div> -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=50&duration=3050&pause=100&color=e6636b&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Olá!" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=50&duration=3050&pause=100&color=e6636b&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Olá!" width="70%" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=50&duration=3050&pause=100&color=e6636b&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Seja+Bem+-+Vindo(A)+ao+meu+Github!+%F0%9F%98%8A" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=50&duration=3050&pause=100&color=e6636b&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Seja+Bem+-+Vindo(A)+ao+meu+Github!+%F0%9F%98%8A" width="70%" />
 <br><br>
 
 
