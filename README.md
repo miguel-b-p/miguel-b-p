@@ -21,7 +21,7 @@
 </pre>
 
 <br><br>
-<img src="image.jpg" image-rendering="pixelated"/>
+<img src="image.png" image-rendering="pixelated"/>
 <br><br>
 
 ---
