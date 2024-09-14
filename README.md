@@ -10,9 +10,14 @@
 </div> -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=50&duration=3050&pause=100&color=e6636b&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Olá!" width="70%" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=50&duration=3050&pause=100&color=e6636b&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Seja+Bem+-+Vindo(A)+ao+meu+Github!+%F0%9F%98%8A" width="70%" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e6636b&width=500&center=true&vCenter=true&lines=Olá!" alt="Typing SVG" width="70%"/>
+  </a>
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e6636b&width=500&center=true&vCenter=true&lines=Seja+Bem+-+Vindo(A)+ao+meu+Github!+%F0%9F%98%8A" alt="Typing SVG" width="70%"/>
+  </a>
 <br><br>
 
 
