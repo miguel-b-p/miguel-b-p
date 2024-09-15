@@ -28,12 +28,13 @@
 </pre>
 
 <br><br>
-<img src="image.png" image-rendering="pixelated"/>
+<!-- <img src="image.png" image-rendering="pixelated"/> -->
+<img src="https://64.media.tumblr.com/7cad9c212d874927c0b69469c649df7f/d0c33dc4908cc2c0-12/s540x810/6fc2bb6326571518fcb0ce8b6d909907e2811f3a.gif" style="border-radius: 10px;"/>
 <br><br>
 
 ---
 
-[![language](https://skillicons.dev/icons?i=html,css,js,nodejs,python,php,mysql)](https://skillicons.dev)
+[![language](https://skillicons.dev/icons?i=html,css,js,nodejs,python,php,mysql,selenium)](https://skillicons.dev)
 
 ---
 
