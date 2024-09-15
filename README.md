@@ -12,11 +12,11 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e6636b&width=500&center=true&vCenter=true&lines=Olá!" alt="Typing SVG" width="70%"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8f5cff&width=500&center=true&vCenter=true&lines=Olá!" alt="Typing SVG" width="70%"/>
   </a>
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e6636b&width=500&center=true&vCenter=true&lines=Seja+Bem+-+Vindo(A)+ao+meu+Github!+%F0%9F%98%8A" alt="Typing SVG" width="70%"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8f5cff&width=500&center=true&vCenter=true&lines=Seja+Bem+-+Vindo(A)+ao+meu+Github!+🧐" alt="Typing SVG" width="70%"/>
   </a>
 <br><br>
 
@@ -28,8 +28,8 @@
 </pre>
 
 <br><br>
-<!-- <img src="image.png" image-rendering="pixelated"/> -->
-<img src="https://64.media.tumblr.com/7cad9c212d874927c0b69469c649df7f/d0c33dc4908cc2c0-12/s540x810/6fc2bb6326571518fcb0ce8b6d909907e2811f3a.gif" style="border-radius: 10px;"/>
+<img src="image.png" image-rendering="pixelated" style="border-radius: 10px;"/>
+<!-- <img src="https://i.pinimg.com/736x/94/4b/c8/944bc8639a85065beebddd72f6a33b64.jpg" style="border-radius: 10px;"/> -->
 <br><br>
 
 ---
