@@ -28,7 +28,7 @@
 </pre>
 
 <br><br>
-<img src="image.png" style="border-radius: 10px;"/>
+<img src="https://i.pinimg.com/originals/b0/98/33/b09833472bdae26a0b637ea79fadd09e.gif" style="border-radius: 10px;"/>
 <br><br>
 
 ---
