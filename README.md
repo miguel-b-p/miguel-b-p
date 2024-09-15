@@ -12,11 +12,11 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8f5cff&width=500&center=true&vCenter=true&lines=Olá!" alt="Typing SVG" width="70%"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fc5353&width=500&center=true&vCenter=true&lines=Olá!" alt="Typing SVG" width="70%"/>
   </a>
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8f5cff&width=500&center=true&vCenter=true&lines=Seja+Bem+-+Vindo(A)+ao+meu+Github!+🧐" alt="Typing SVG" width="70%"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fc5353&width=500&center=true&vCenter=true&lines=Seja+Bem+-+Vindo(A)+ao+meu+Github!+🧐" alt="Typing SVG" width="70%"/>
   </a>
 <br><br>
 
