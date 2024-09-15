@@ -28,8 +28,7 @@
 </pre>
 
 <br><br>
-<img src="image.png" image-rendering="pixelated" style="border-radius: 10px;"/>
-<!-- <img src="https://i.pinimg.com/736x/94/4b/c8/944bc8639a85065beebddd72f6a33b64.jpg" style="border-radius: 10px;"/> -->
+<img src="image.png" style="border-radius: 10px;"/>
 <br><br>
 
 ---
