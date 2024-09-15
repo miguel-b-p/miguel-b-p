@@ -12,11 +12,11 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fc5353&width=500&center=true&vCenter=true&lines=Olá!" alt="Typing SVG" width="70%"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=500&center=true&vCenter=true&lines=Olá!" alt="Typing SVG" width="70%"/>
   </a>
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fc5353&width=500&center=true&vCenter=true&lines=Seja+Bem+-+Vindo(A)+ao+meu+Github!+🧐" alt="Typing SVG" width="70%"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=500&center=true&vCenter=true&lines=Seja+Bem+-+Vindo(A)+ao+meu+Github!+🧐" alt="Typing SVG" width="70%"/>
   </a>
 <br><br>
 
@@ -28,7 +28,7 @@
 </pre>
 
 <br><br>
-<img src="https://i.pinimg.com/originals/b0/98/33/b09833472bdae26a0b637ea79fadd09e.gif" style="border-radius: 10px;"/>
+<img src="https://i.pinimg.com/originals/fa/c0/83/fac0839e4b1c6e67d254ef908c90f4ef.gif" style="border-radius: 10px;" width="50%"/>
 <br><br>
 
 ---
