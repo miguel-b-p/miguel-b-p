@@ -1,22 +1,7 @@
-
-
-<!-- <div style="align: center;">
-  <a href="#">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-b-p&theme=dark&hide_border=true" />
-  </a>
-  <a href="#">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-b-p&layout=compact&langs_count=8&card_width=320&theme=dark&hide_border=true" />
-  </a>
-</div> -->
-
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=500&center=true&vCenter=true&lines=Olá!" alt="Typing SVG" width="70%"/>
-  </a>
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=500&center=true&vCenter=true&lines=Seja+Bem+-+Vindo(A)+ao+meu+Github!+🧐" alt="Typing SVG" width="70%"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&width=500&height=70¢er=true&vCenter=true&multiline=true&lines=Olá!;Seja+Bem+-+Vindo(A)+ao+meu+Github!+🧐" alt="Typing SVG" width="70%"/>
   </a>
 <br><br>
 
