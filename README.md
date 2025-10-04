@@ -21,7 +21,6 @@ Sou um desenvolvedor com foco principal em **back-end**, mas também possuo habi
 
 ---
 
-### 🛠️ Habilidades & Ferramentas
 
 <div align="center">
   <p><strong>Linguagens & Frameworks</strong></p>
@@ -42,7 +41,6 @@ Sou um desenvolvedor com foco principal em **back-end**, mas também possuo habi
 
 ---
 
-### 📊 Estatísticas do Github
 
 <table align="center">
   <tr>
