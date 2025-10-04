@@ -1,46 +1,24 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&width=500&height=70&vCenter=true&multiline=true&lines=Seja+Bem+-+Vindo(A)+ao+meu+Github!+🧐)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center"> 
-  <!-- <a href="https://github.com/miguel-b-p" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-  </a> -->
-  <a href="https://www.linkedin.com/in/miguel-batista-pinotti-839657266/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient:0,000000,50,303030,100,000000&fontColor=ffffff&text=Miguel%20B.%20Pinotti&fontSize=60&animation=fadeIn&desc=Back-end%20%7C%20Front-end%20%7C%20Cibersegurança%20%7C%20IA&descAlign=50&descAlignY=70" alt="Header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sempre+estudando+cada+vez+mais"/>
+  
 </div>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/b0/98/33/b09833472bdae26a0b637ea79fadd09e.gif" width="60%" />
 </div>
-
-Sou um desenvolvedor com foco principal em **back-end**, mas também possuo habilidades em **front-end**, o que me permite criar soluções completas e integradas. Sou um grande entusiasta de cibersegurança e da administração de servidores, automações e inteligência artificial. Estou sempre em busca de conhecimento para aprimorar minhas habilidades no mundo da tecnologia!
-
----
-
-
+<br>
 <div align="center">
-  <p><strong>Linguagens & Frameworks</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,php" />
-  </a>
-  <br>
-  <p><strong>Banco de Dados & Automação</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,selenium" />
-  </a>
-  <br>
-  <p><strong>Sistemas Operacionais & Ferramentas</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,selenium,php,mysql,git,linux" />
   </a>
 </div>
 
 ---
 
+Sou um desenvolvedor Back-end com sólida experiência em Front-end, o que me permite construir e manter aplicações de ponta a ponta. Apaixonado por cibersegurança, administração de servidores, automações e Inteligência Artificial, estou sempre buscando novos desafios para expandir meu conhecimento.
+
+---
 
 <table align="center">
   <tr>
@@ -53,4 +31,9 @@ Sou um desenvolvedor com foco principal em **back-end**, mas também possuo habi
   </tr>
 </table>
 
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/miguel-batista-pinotti-839657266/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+</div>
 <br/>
