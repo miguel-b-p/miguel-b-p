@@ -30,10 +30,12 @@ Sou um desenvolvedor Back-end com sólida experiência em Front-end, o que me pe
     </td>
   </tr>
 </table>
-
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/miguel-batista-pinotti-839657266/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+<div align="center">
+  <a href="mailto:miguelpinotty@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-batista-pinotti-839657266/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
 <br/>
