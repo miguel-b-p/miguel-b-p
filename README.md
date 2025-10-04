@@ -38,4 +38,3 @@ Sou um desenvolvedor Back-end com sólida experiência em Front-end, o que me pe
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
-<br/>
