@@ -50,7 +50,7 @@ Sou um desenvolvedor Back-end com sólida experiência em Front-end, o que me pe
 <!-- ![miguel-b-p's Streak](https://github-readme-stats.vercel.app/api?username=miguel-b-p&show_icons=true&count_private=true&hide_border=true&theme=graywhite) -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=FFFFFF&center=true&vCenter=true&width=300&lines=Contatos"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=FFFFFF&center=true&vCenter=true&width=300&lines=Contato"/>
 </div>
 <div align="center">
   <a href="mailto:miguelpinotty@gmail.com">
