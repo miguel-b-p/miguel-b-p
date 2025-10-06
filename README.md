@@ -36,8 +36,9 @@ Sou um desenvolvedor Back-end com sólida experiência em Front-end, o que me pe
     <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=miguel-b-p&show_icons=true&count_private=true&hide_border=true&theme=graywhite" align="left" style="width: 100%" />
     </td>
+    <br>
     <td valign="top" width="50%">
-      <img src="https://github.com/miguel-b-p/miguel-b-p/blob/main/github-metrics.svg" align="left" style="width: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=miguel-b-p&show_icons=true&count_private=true&hide_border=true&theme=graywhite" align="left" style="width: 100%" />
     </td>
   </tr>
 </table>
