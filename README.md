@@ -35,7 +35,7 @@ Sou um desenvolvedor Back-end com sólida experiência em Front-end, o que me pe
 
 <table>
   <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-b-p&theme=graywhite&hide_border=true">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miguel-b-p&theme=graywhite&utcOffset=3">
   </td>
   <td>
     <img src="https://github-readme-stats.vercel.app/api?username=miguel-b-p&show_icons=true&count_private=true&hide_border=true&theme=graywhite">
