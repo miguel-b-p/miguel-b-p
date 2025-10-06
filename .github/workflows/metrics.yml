@@ -22,20 +22,26 @@ jobs:
           # Token do GitHub (necessário)
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          # Configurações para um visual limpo
-          config_display: "regular"
-          hide_border: yes
-
-          # =========== A MÁGICA ACONTECE AQUI ===========
-          # Plugins a serem usados
-          base: "header, activity, community, repositories, metadata"
+          # ================== A MÁGICA ACONTECE AQUI ==================
+          # Removemos a linha "base:" para não mostrar os painéis padrão.
+          # Deixamos apenas o plugin de linguagens ativado.
+          
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
+          plugin_languages_analysis_timeout: 15
           
-          # CORES EM ESCALA DE CINZA PARA AS LINGUAGENS
+          # CORES EM ESCALA DE CINZA PARA AS BARRAS DE LINGUAGENS
           plugin_languages_colors: "gray, #666, #888, #aaa, #ccc, #eee"
           
-          # CORES DO TEMA (FUNDO E TEXTO)
-          config_colors: "000000, ffffff, ffffff, ffffff, 000000, ffffff"
-          # As cores acima são: texto, fundo, borda, anel do gráfico, ícone, linha
+          # Estilos CSS para manter o tema preto e branco
+          extras_css: |
+            svg {
+              background-color: #ffffff;
+            }
+            .header, .text, .chart-label, .chart-value, .lines, .legend > g > text {
+              fill: #000000 !important;
+            }
+            .progress-background {
+              fill: #dddddd;
+            }
