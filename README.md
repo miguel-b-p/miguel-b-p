@@ -33,8 +33,12 @@ Sou um desenvolvedor Back-end com sólida experiência em Front-end, o que me pe
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=FFFFFF&center=true&vCenter=true&width=300&lines=Status"/>
 </div>
 
-![miguel-b-p's Stats](https://github-readme-streak-stats.herokuapp.com/?user=miguel-b-p&theme=graywhite&hide_border=true)
-![miguel-b-p's Streak](https://github-readme-stats.vercel.app/api?username=miguel-b-p&show_icons=true&count_private=true&hide_border=true&theme=graywhite)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-b-p&theme=graywhite&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=miguel-b-p&show_icons=true&count_private=true&hide_border=true&theme=graywhite">
+</div>
+<!-- ![miguel-b-p's Stats](https://github-readme-streak-stats.herokuapp.com/?user=miguel-b-p&theme=graywhite&hide_border=true) -->
+<!-- ![miguel-b-p's Streak](https://github-readme-stats.vercel.app/api?username=miguel-b-p&show_icons=true&count_private=true&hide_border=true&theme=graywhite) -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=FFFFFF&center=true&vCenter=true&width=300&lines=Contatos"/>
