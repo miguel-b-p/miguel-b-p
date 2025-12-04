@@ -32,15 +32,19 @@ Sou um desenvolvedor Back-end com sólida experiência em Front-end, o que me pe
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=FFFFFF&center=true&vCenter=true&width=300&lines=Status"/>
 </div>
+<br>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miguel-b-p&theme=graywhite&utcOffset=3">
+</div>
 
-<table>
+<!-- <table>
   <td>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miguel-b-p&theme=graywhite&utcOffset=3">
   </td>
-  <!-- <td>
+  <td>
     <img src="https://github-readme-stats.vercel.app/api?username=miguel-b-p&show_icons=true&count_private=true&hide_border=true&theme=graywhite">
-  </td> -->
-</table>
+  </td>
+</table> -->
 
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-b-p&theme=graywhite&hide_border=true">
