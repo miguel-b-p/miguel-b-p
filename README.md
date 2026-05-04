@@ -10,19 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=FFFFFF&center=true&vCenter=true&width=300&lines=Tools"/>
 </div>
 <div align="center">
-  <img height="50" width="50" src="https://cdn.simpleicons.org/html5/FFFFFF" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/javascript/FFFFFF" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/python/FFFFFF" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/selenium/FFFFFF" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/puppeteer/FFFFFF" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/gnubash/FFFFFF" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/n8n/FFFFFF" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/mysql/FFFFFF" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/docker/FFFFFF" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/git/FFFFFF" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/linux/FFFFFF" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/nixos/FFFFFF" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/html5/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/javascript/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/python/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/selenium/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/puppeteer/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/gnubash/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/n8n/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/mysql/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/docker/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/git/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/linux/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/nixos/FFFFFF" />
 </div>
 
 <br>
