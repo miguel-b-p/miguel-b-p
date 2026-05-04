@@ -9,9 +9,43 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=FFFFFF&center=true&vCenter=true&width=300&lines=Tools"/>
 </div>
-<div align="center">
-  <img height="50" width="50" src="https://cdn.simpleicons.org/html5/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/javascript/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/python/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/selenium/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/puppeteer/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/gnubash/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/n8n/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/mysql/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/docker/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/git/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/linux/FFFFFF" /> <img height="50" width="50" src="https://cdn.simpleicons.org/nixos/FFFFFF" />
+
+<div align="center" style="display: inline-block;">
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img height="50px" width="50px" src="https://cdn.simpleicons.org/html5/FFFFFF" alt="HTML5" /> 
+    <img height="50px" width="50px" src="https://cdn.simpleicons.org/javascript/FFFFFF" alt="JavaScript" /> 
+  </kbd>
+  <kbd>
+    <kbd>Back-end & Scripting</kbd>
+    <br>
+    <br>
+    <img height="50px" width="50px" src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" alt="Node.js" /> 
+    <img height="50px" width="50px" src="https://cdn.simpleicons.org/python/FFFFFF" alt="Python" /> 
+    <img height="50px" width="50px" src="https://cdn.simpleicons.org/gnubash/FFFFFF" alt="GNU Bash" /> 
+  </kbd>
+  <kbd>
+    <kbd>Automation & Web Scraping</kbd>
+    <br>
+    <br>
+    <img height="50px" width="50px" src="https://cdn.simpleicons.org/selenium/FFFFFF" alt="Selenium" /> 
+    <img height="50px" width="50px" src="https://cdn.simpleicons.org/puppeteer/FFFFFF" alt="Puppeteer" /> 
+    <img height="50px" width="50px" src="https://cdn.simpleicons.org/n8n/FFFFFF" alt="n8n" /> 
+  </kbd>
+  <kbd>
+    <kbd>Infrastructure & Tools</kbd>
+    <br>
+    <br>
+    <img height="50px" width="50px" src="https://cdn.simpleicons.org/mysql/FFFFFF" alt="MySQL" /> 
+    <img height="50px" width="50px" src="https://cdn.simpleicons.org/docker/FFFFFF" alt="Docker" /> 
+    <img height="50px" width="50px" src="https://cdn.simpleicons.org/git/FFFFFF" alt="Git" /> 
+    <img height="50px" width="50px" src="https://cdn.simpleicons.org/linux/FFFFFF" alt="Linux" /> 
+    <img height="50px" width="50px" src="https://cdn.simpleicons.org/nixos/FFFFFF" alt="NixOS" /> 
+  </kbd>
 </div>
+
 
 <br>
 <div align="center">
